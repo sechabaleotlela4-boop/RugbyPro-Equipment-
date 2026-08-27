@@ -1,6 +1,10 @@
 # RugbyPro-Equipment-
 # RugbyPro Equipment Store Website
 
+Sechaba Leotlela
+ST10523992
+WEDE5020
+
 ## Project Overview
 
 RugbyPro Equipment Store is a retail website project created for a rugby equipment business.
